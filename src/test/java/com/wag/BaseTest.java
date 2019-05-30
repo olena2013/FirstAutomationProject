@@ -1,5 +1,6 @@
 package com.wag;
 
+import helper.EmailGenerator;
 import helper.User;
 import helper.UserWalker;
 import org.junit.After;
@@ -14,6 +15,7 @@ public class BaseTest {
     protected User user;
     protected WebDriverWait wait;
     protected UserWalker userWalker;
+    protected EmailGenerator emailGenerator;
 
     @Before
     public void setDriver() {
@@ -31,6 +33,7 @@ public class BaseTest {
         user = new User();
         wait = new WebDriverWait(driver,10);
         userWalker = new UserWalker();
+        emailGenerator = new EmailGenerator();
     }
 
 //    @After

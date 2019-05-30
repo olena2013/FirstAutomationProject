@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35c615bd-cdde-438a-8385-3e38cf53cb67" name="Default Changelist" comment="Merge branch 'master' of https://github.com/olena2013/TestAutomation&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/com/wag/LoginPage.java&#10;#&#9;src/test/java/com/wag/LoginInvalidDataTest.java&#10;#&#9;target/classes/com/wag/HomePage.class&#10;#&#9;target/classes/com/wag/LoginPage.class&#10;#&#9;target/test-classes/com/wag/BaseTest.class&#10;#&#9;target/test-classes/com/wag/LoginInvalidDataTest.class">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wag/WalkerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wag/WalkerPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/wag/BecomeWalkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wag/BecomeWalkerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wag/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wag/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wag/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wag/PromotionPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wag/PromotionPageDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wag/WalkerPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helper/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helper/UserWalker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wag/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wag/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wag/PromotionActionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wag/PromotionActionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/FirstProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/FirstProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wag/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wag/BaseTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/wag/BecomeWalkerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wag/BecomeWalkerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wag/IncorrectEmailTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wag/IncorrectEmailTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wag/LoginInvalidDataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wag/LoginInvalidDataTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wag/PromotionActionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wag/PromotionActionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wag/PromotionErrorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wag/PromotionErrorTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,69 +34,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wag/WalkerPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/BecomeWalkerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/IncorrectEmailTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/LoginInvalidDataTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wag/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/PromotionActionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+            <state relative-caret-position="145">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,13 +58,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/PromotionErrorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/helper/EmailGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/helper/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -138,18 +106,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wag/PromotionPageDuplicate.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wag/PromotionErrorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/helper/User.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/wag/PromotionActionTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wag/IncorrectEmailTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wag/LoginInvalidDataTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wag/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wag/WalkerForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/helper/UserWalker.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wag/BasePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/wag/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wag/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wag/PromotionPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wag/WalkerPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wag/BecomeWalkerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wag/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/helper/EmailGenerator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wag/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wag/PromotionActionTest.java" />
       </list>
     </option>
   </component>
@@ -161,10 +131,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="42" />
-    <option name="width" value="3756" />
-    <option name="height" value="1920" />
+    <option name="x" value="2016" />
+    <option name="y" value="62" />
+    <option name="width" value="1371" />
+    <option name="height" value="863" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,64 +147,59 @@
         <subPane>
           <expand>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAutomationProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAutomationProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAutomationProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAutomationProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAutomationProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wag" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAutomationProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="helper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAutomationProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAutomationProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstAutomationProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstAutomationProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -249,11 +214,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaTutorial" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -273,7 +238,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BecomeWalkerTest.testBecomeWalker">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wag.Main" />
+      <module name="FirstAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BecomeWalkerTest.testBecomeWalker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <extension name="coverage">
@@ -338,29 +316,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PromotionErrorTest.testError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wag.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wag" />
-      <option name="MAIN_CLASS_NAME" value="com.wag.PromotionErrorTest" />
-      <option name="METHOD_NAME" value="testError" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.BecomeWalkerTest.testBecomeWalker" />
         <item itemvalue="JUnit.LoginInvalidDataTest.testLoginInvalidData" />
         <item itemvalue="JUnit.IncorrectEmailTest.testIncorrectEmail" />
         <item itemvalue="JUnit.IncorrectEmailTest.enterIncorrectEmail" />
-        <item itemvalue="JUnit.PromotionErrorTest.testError" />
       </list>
     </recent_temporary>
   </component>
@@ -419,10 +381,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="14" width="1252" height="640" extended-state="1" />
+    <frame x="2016" y="62" width="1371" height="863" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973545" visible="true" weight="0.21571906" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973545" visible="true" weight="0.21586575" />
       <window_info id="Structure" order="1" sideWeight="0.5026455" side_tool="true" weight="0.19255663" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -431,13 +393,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.5026455" side_tool="true" weight="0.19255663" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40602836" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40602836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2996454" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49961862" visible="true" weight="0.29863015" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003814" side_tool="true" weight="0.29863015" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32978722" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -530,13 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/helper/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1188" />
@@ -597,19 +552,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wag/WalkerPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="105">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -619,19 +564,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wag/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/BecomeWalkerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
+        <state relative-caret-position="609">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -641,14 +576,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/IncorrectEmailTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
+        <state relative-caret-position="315">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/LoginInvalidDataTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="315">
           <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -656,10 +591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/PromotionActionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wag/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+        <state relative-caret-position="294">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -668,11 +603,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/PromotionErrorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="403">
           <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wag/PromotionActionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/EmailGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

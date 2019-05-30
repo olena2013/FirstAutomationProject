@@ -1,5 +1,6 @@
 package com.wag;
 
+import helper.EmailGenerator;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -9,6 +10,7 @@ public class PromotionActionTest extends BaseTest {
     private PromotionPage promotionPage;
     protected WebDriverWait driverWait;
     protected HomePage homePage;
+    protected EmailGenerator emailGenerator;
 
     @Test
     public void testPromotionAction() {
@@ -16,6 +18,8 @@ public class PromotionActionTest extends BaseTest {
         promotionPage = homePage.clickWalkFreeButton();
 
         promotionPage.inputEmailField(user.getEmail());
+
+
 
         promotionPage.inputPasswordField(user.getPassword());
 
